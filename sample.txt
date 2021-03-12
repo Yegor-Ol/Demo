@@ -2,3 +2,6 @@ SAMPLE string
 FOR first use
 LINE 3 AND
 LINE 4 ADDED
+
+AND ONE NEW
+ONE ONE MORE

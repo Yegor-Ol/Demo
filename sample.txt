@@ -1,0 +1,2 @@
+SAMPLE string
+FOR first use
